@@ -1,4 +1,4 @@
-name: INITIAL-TEST-OF-PLATFORM-CI-LANDO
+name: Drupal-CD-CI-with-DDEV
 type: drupal10
 docroot: web
 php_version: "8.3"
@@ -14,7 +14,7 @@ database:
 use_dns_when_possible: true
 composer_version: "2"
 web_environment:
-    - PLATFORM_PROJECT=2ygxd5balkqjg
+    - PLATFORM_PROJECT=46fgwollbq2ha
     - PLATFORM_ENVIRONMENT=main
 nodejs_version: "16"
 corepack_enable: false
