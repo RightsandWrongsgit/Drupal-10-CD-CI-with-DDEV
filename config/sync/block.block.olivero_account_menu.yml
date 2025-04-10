@@ -1,4 +1,4 @@
-uuid: 271f9f89-27ca-47f0-9136-7683f3a31737
+uuid: ea28440c-9e54-4aac-b691-b7cfb035c0e4
 langcode: en
 status: true
 dependencies:
@@ -13,13 +13,13 @@ _core:
 id: olivero_account_menu
 theme: olivero
 region: secondary_menu
-weight: -7
+weight: -4
 provider: null
 plugin: 'system_menu_block:account'
 settings:
   id: 'system_menu_block:account'
   label: 'User account menu'
-  label_display: visible
+  label_display: '0'
   provider: system
   level: 1
   depth: 1

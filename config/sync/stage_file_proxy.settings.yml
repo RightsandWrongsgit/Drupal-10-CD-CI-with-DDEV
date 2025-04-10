@@ -1,7 +1,9 @@
+_core:
+  default_config_hash: LqXuXXQCTd1NWw7dGLef0PCi3_aEEWQuogAblo4hHaE
 hotlink: false
 origin: ''
-origin_dir: sites/default/files
+origin_dir: ''
+use_imagecache_root: true
 proxy_headers: ''
-use_imagecache_root: false
-verify: false
+verify: true
 excluded_extensions: ''

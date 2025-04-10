@@ -1,4 +1,4 @@
-uuid: ad5dabfb-2b90-4973-81ce-274821939868
+uuid: 69026105-e379-49fd-a5cd-a61dcf41174a
 langcode: en
 status: true
 dependencies:
@@ -21,5 +21,5 @@ settings:
   provider: system
   use_site_logo: true
   use_site_name: true
-  use_site_slogan: true
+  use_site_slogan: false
 visibility: {  }

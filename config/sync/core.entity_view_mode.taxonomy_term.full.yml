@@ -1,11 +1,11 @@
-uuid: 8c056638-012f-42d7-8506-a1e0a522acb2
+uuid: b4024668-8306-43d5-9f1d-8449c0dd9af9
 langcode: en
 status: true
 dependencies:
   module:
     - taxonomy
 _core:
-  default_config_hash: '-PPKjsNQPvoIDjOuUAvlLocYD976MNjb9Zpgyz5_BWE'
+  default_config_hash: iukUENpf8CFvjZbGGacKX_Ges0-lU9z6zvsd32P6kbo
 id: taxonomy_term.full
 label: 'Taxonomy term page'
 description: ''

@@ -1,11 +1,11 @@
-uuid: 65466c15-cb4d-44e5-b7a2-1b071cdc9428
+uuid: 4b6dd058-650b-415d-9264-e89f786f557b
 langcode: en
 status: true
 dependencies:
   module:
     - node
 _core:
-  default_config_hash: Mz9qWr1kUYK0mjRAGDsr5XS6PvtZ24en_7ndt-pyWe4
+  default_config_hash: KgGJDZFpMaz_8bTv6fN1bXS3Qi5LWmRJI9R53kEGsNQ
 id: node.teaser
 label: Teaser
 description: ''

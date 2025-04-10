@@ -1,4 +1,4 @@
-uuid: 36dc5452-b25e-4f4f-be9f-7308d1496de1
+uuid: d82e7c70-0dbc-4b73-83e0-24acc5774813
 langcode: en
 status: true
 dependencies:
@@ -6,7 +6,7 @@ dependencies:
     - comment
     - user
 _core:
-  default_config_hash: CgXkKY33fd-yaHz89du2hSw6MJOoIeNUJ-VHE5BiSdQ
+  default_config_hash: H6JHGXl97yOKmVaV62SoY1ki1tWVdyD44fgOkdmVyRM
 id: comment
 label: Comments
 module: comment
@@ -395,7 +395,7 @@ display:
             custom_date_format: ''
             timezone: ''
             tooltip:
-              date_format: ''
+              date_format: long
               custom_date_format: ''
             time_diff:
               enabled: false
@@ -1283,7 +1283,7 @@ display:
             custom_date_format: ''
             timezone: ''
             tooltip:
-              date_format: ''
+              date_format: long
               custom_date_format: ''
             time_diff:
               enabled: false

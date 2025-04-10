@@ -1,4 +1,4 @@
-uuid: 000b9260-f91e-497f-b9a5-c1bde184bb25
+uuid: 63251d18-10ff-4357-99df-023b0939e234
 langcode: en
 status: true
 dependencies:
@@ -19,7 +19,7 @@ plugin: 'system_menu_block:main'
 settings:
   id: 'system_menu_block:main'
   label: 'Main navigation'
-  label_display: visible
+  label_display: '0'
   provider: system
   level: 1
   depth: 2

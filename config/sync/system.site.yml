@@ -1,10 +1,10 @@
 _core:
-  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+  default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
-uuid: 989db6eb-2f81-42c7-88a1-bfac439bea1a
-name: 'Drupal CI/CD Workflow Base (Platform.sh now with DDEV)'
+uuid: dac4542a-0165-4a9d-8c9f-59500475c68c
+name: 'Drupal CD/CD with DDEV'
 mail: emofsnead@gmail.com
-slogan: 'ARMTEC Success found here...'
+slogan: ''
 page:
   403: ''
   404: ''
