@@ -44,10 +44,13 @@ node_modules
 # Ignore mounts
 web/sites/default/files
 tmp
+
 # private
 .drush
 drush-backups
 .console
+.ssh/
+known_hosts
 
 # Ignore default text files
 /CHANGELOG.txt
